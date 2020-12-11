@@ -17,6 +17,11 @@
                     <?php the_post_thumbnail('large'); ?>
                 </div>
                 <div class="col-md-6 col-12">
+                    <!-- Agregamos shortcode de nuestro formulario -->
+                    Formulario
+                    <?php echo do_shortcode('[contact-form-7 id="47" title="Formulario 1"]'); ?>
+                </div>
+                <div class="col-12">
                     <?php the_content(); ?>
                 </div>
             </div>

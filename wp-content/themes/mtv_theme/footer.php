@@ -1,7 +1,7 @@
 <!-- FOOTER DE LA PAGINA -->
 
-<footer>
-    <div class="container">
+<footer class="log page-footer grey darken-2">
+    <div class="container ">
         <?php 
             dynamic_sidebar('footer');
         ?>
