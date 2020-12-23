@@ -23,7 +23,7 @@
             <div class="col s12 m6 l3">
                 <p>Contacto</p>
                 <ul>
-                    <li>(056) 111 233)</li>
+                    <li>(056) 111 233</li>
                     <li>978 444 875</li>
                     <li>info@mtv-smartsecurity</li>
                 </ul>
@@ -34,7 +34,6 @@
                 <ul class="social-media">
                     <li>
                         <i class="fa fa-facebook-f">Facebook</i>
-                        
                     </li>
                     <li>
                         <i class="fab fa-instagram">Instagram</i>
@@ -61,8 +60,5 @@
 <?php wp_footer()?>
 
 
-<a href="#" class="scrollToTop">aaa
-	<i class="icofont icofont-arrow-up"></i>
-</a>
 </body>
 </html>
